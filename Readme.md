@@ -1,0 +1,1 @@
+Olá! esse é um projeto de Landing Page que fiz por conta propria minha, tive a ideia coloquei em pratica pegando dicas em videos e usando o que eu aprendi até o momento, estou aprendendo HTML5, CSS3 e JS ainda, mas venho crescendo e tendo uma boa evolução. Sinta-se a vontade para opinar dar dicas ou até mesmo modificar o código, logo mais devo postar mais alguns projetos!
